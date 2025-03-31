@@ -27,7 +27,7 @@
 
    - 评价指标：F1
    
-   - 实体抽取采用模糊匹配：对于模型抽取的实体e，人工标注的答案实体a，覆盖度定义为：$s(e,a)=\frac{|e\cap a|}{|e\cup a|}$，若$s(e,a)\ge0.6$，则视为实体抽取正确。对于一组<本体-喻体>对，需本体、喻体实体同时满足正确条件时，视为<本体-喻体>对抽取正确。
+   - 实体抽取采用模糊匹配：对于模型抽取的实体e，人工标注的答案实体a，覆盖度定义为： $s(e,a)=\frac{|e\cap a|}{|e\cup a|}$，若$s(e,a)\ge0.6$，则视为实体抽取正确。对于一组<本体-喻体>对，需本体、喻体实体同时满足正确条件时，视为<本体-喻体>对抽取正确。
 
 **第二阶段**
 
@@ -75,7 +75,7 @@
 
 #### 评测报名方式
 
-![]([https://oss-liuchengtu.hudunsoft.com/userimg/b3/b38c98c74a8337ac35feb8291b6e0d0d.png](https://github.com/sxu-nlp/Bini-EmoAnalysis/blob/main/CCAC2025%20%E7%BB%86%E7%B2%92%E5%BA%A6%E6%AF%94%E6%8B%9F%E5%8F%A5%E6%83%85%E7%BB%AA%E5%88%86%E6%9E%90%E6%8A%A5%E5%90%8D%E8%A1%A8%E4%BA%8C%E7%BB%B4%E7%A0%81.png))
+![CCAC2025 细粒度比拟句情绪分析报名表二维码.png](https://github.com/sxu-nlp/Bini-EmoAnalysis/blob/main/baoming.png)
 
 【腾讯文档】CCAC2025 细粒度比拟句情绪分析报名表
 
