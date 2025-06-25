@@ -69,6 +69,10 @@
 
 ![CCAC2025 细粒度比拟句情绪分析Task1-Recycle.png](https://github.com/sxu-nlp/Bini-EmoAnalysis/blob/main/Task3-Recycle.png)
 
+#### 成绩公布:
+
+[点击查看排行榜](https://github.com/sxu-nlp/Bini-EmoAnalysis/edit/main/排行榜.md)
+
 #### 评测时间安排：
 |                            |                    |
 | -------------------------- | ------------------ |
