@@ -71,7 +71,7 @@
 
 #### 成绩公布:
 
-[点击查看排行榜](https://github.com/sxu-nlp/Bini-EmoAnalysis/edit/main/排行榜.md)
+[点击查看排行榜](排行榜.md)
 
 #### 评测时间安排：
 |                            |                    |
